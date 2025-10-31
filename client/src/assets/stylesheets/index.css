@@ -1,1 +1,10 @@
 @import "tailwindcss";
+@import "./fonts/figtree.css";
+
+html {
+  font-family: "Figtree", sans-serif;
+}
+
+.debug {
+  border: 2px solid red;
+}
